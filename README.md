@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-![Fabricio Ignacio de Espindola github stats](https://github-readme-stats.vercel.app/api?username=fabricioig863&show_icons=true&theme=radical)
+Cursando Sistemas de Informação na UNISUL (Universidade do Sul de Santa Catarina).
+
+Nos últimos meses venho realizando projetos utilizando as tecnologias: HTML, CSS, JavaScript, Node.js, SQL, mongoDB, React e React-native.
+
+Sou apaixonado por tecnologia desde muito cedo, e estou sempre em busca de aprimorar meus conhecimentos.
+
+Sou aluno do bootcamp da Rocktseat, e tenho como objetivo, atuar na área de desenvolvimento mobile, utilizando React-native.
+
+Atualmente sou estagiário desevolvedor front-end na CompassoUOL. 
 
 Here are some ideas to get you started:
 
