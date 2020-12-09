@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Fabricio Ignacio de Espindola github stats](https://github-readme-stats.vercel.app/api?username=fabricioig863_private=true)
+![Fabricio Ignacio de Espindola github stats](https://github-readme-stats.vercel.app/api?username=fabricioig863&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
