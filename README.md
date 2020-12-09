@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**fabricioig863/fabricioig863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fabricio Ignacio de Espindola github stats](https://github-readme-stats.vercel.app/api?username=fabricioig863_private=true)
 
 Here are some ideas to get you started:
 
