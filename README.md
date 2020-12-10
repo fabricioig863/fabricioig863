@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá meu nome é Fabricio Ignacio de Espindola, 👋
 
-Cursando Sistemas de Informação na UNISUL (Universidade do Sul de Santa Catarina).
+Faço Sistemas de Informação na UNISUL (Universidade do Sul de Santa Catarina).
 
 Nos últimos meses venho realizando projetos utilizando as tecnologias: HTML, CSS, JavaScript, Node.js, SQL, mongoDB, React e React-native.
 
