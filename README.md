@@ -12,3 +12,5 @@ Atualmente sou estagiário desevolvedor front-end na CompassoUOL.
 
 [![My website](https://dyn-qrcode-six.vercel.app/api?url=https://fabricioig863.github.io)](https://fabricioig863.github.io/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioig863&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
