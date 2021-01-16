@@ -6,7 +6,7 @@
 
 Olá! 👋🏾
 
-Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp da Rocketseat, Atualmente em busca de uma oportunidade para agregar valor as empresas.<br /> 
+Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp Gostack da Rocketseat, Atualmente em busca de uma oportunidade para agregar valor as empresas.<br /> 
 
 :purple_heart: por desenvolvimento mobile 
 
