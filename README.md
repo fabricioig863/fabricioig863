@@ -20,7 +20,6 @@ Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp Gos
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=fabricioig863&show_icons=true&theme=radical" alt="fabricioig863" /> </p>
 
 <h3>Parafraseando (Diego fernandes)</h3>
 <p>"Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que os fracassos talentosos. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos. "</p>
