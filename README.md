@@ -1,7 +1,7 @@
 # **Fabricio Ignacio de Espindola** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabricio%20Iganacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-ignacio-de-espindola-3b446814b/)](https://www.linkedin.com/in/fabricio-ignacio-de-espindola-3b446814b/)
-[![Gmail Badge](https://img.shields.io/badge/-fabricioig8632gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioig863@gmail.com)](mailto:fabricioig863@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fabricioig863@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioig863@gmail.com)](mailto:fabricioig863@gmail.com)
 
 
 Olá! 👋🏾
