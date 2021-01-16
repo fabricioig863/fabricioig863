@@ -1,7 +1,7 @@
 # **Fabricio Ignacio de Espindola** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/fabricio-ignacio-de-espindola-3b446814b/)
-[![Gmail Badge](https://img.shields.io/badge/-heliton.oliveira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:fabricioig863@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Fabricio%20Iganacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-ignacio-de-espindola-3b446814b/)](https://www.linkedin.com/in/fabricio-ignacio-de-espindola-3b446814b/)
+[![Gmail Badge](https://img.shields.io/badge/-fabricioig8632gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricioig863@gmail.com)](mailto:fabricioig863@gmail.com)
 
 
 Olá! 👋🏾
@@ -21,7 +21,7 @@ Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp da 
 ![Redux Badge](https://img.shields.io/badge/-Redux-purple)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=helitonoliveiraa&show_icons=true&theme=radical" alt="helitonoliveiraa" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=fabricioig863&show_icons=true&theme=radical" alt="fabricioig863" /> </p>
 
 Here are some ideas to get you started:
 
