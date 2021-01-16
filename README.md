@@ -8,7 +8,7 @@
 
 Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp Gostack da Rocketseat, atualmente em busca de uma oportunidade para atuar como dev-mobile.<br /> 
 
-:purple_heart: por desenvolvimento mobile 
+❤️ por desenvolvimento mobile 
 
 <br />
  
