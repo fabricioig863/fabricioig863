@@ -1,21 +1,36 @@
-### Olá meu nome é Fabricio Ignacio de Espindola, 👋
+# **Fabricio Ignacio de Espindola** 
 
-Faço Sistemas de Informação na UNISUL (Universidade do Sul de Santa Catarina).
+[![Linkedin Badge](https://img.shields.io/badge/-Héliton%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helitonoliveira)](https://www.linkedin.com/in/fabricio-ignacio-de-espindola-3b446814b/)
+[![Gmail Badge](https://img.shields.io/badge/-heliton.oliveira88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heliton.oliveira88@gmail.com)](mailto:fabricioig863@gmail.com)
 
-Nos últimos meses venho realizando projetos utilizando as tecnologias: HTML, CSS, JavaScript, Node.js, SQL, mongoDB, React e React-native.
 
-Sou apaixonado por tecnologia desde muito cedo, e estou sempre em busca de aprimorar meus conhecimentos.
+Olá! 👋🏾
 
-Sou aluno do bootcamp da Rocktseat, e tenho como objetivo, atuar na área de desenvolvimento mobile, utilizando React-native.
+Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp da Rocketseat, Atualmente em busca de uma oportunidade para agregar valor as empresas.<br /> 
 
-Atualmente sou estagiário desevolvedor front-end na CompassoUOL. 
+:purple_heart: por desenvolvimento mobile 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioig863&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+ 
+![HTML Badge](https://img.shields.io/badge/-HTML-orange)
+![CSS Badge](https://img.shields.io/badge/-CSS-blue)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
+![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
+![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
+![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
+![Redux Badge](https://img.shields.io/badge/-Redux-purple)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 
-# 💻 Technology Skills
+<p> <img src="https://github-readme-stats.vercel.app/api?username=helitonoliveiraa&show_icons=true&theme=radical" alt="helitonoliveiraa" /> </p>
 
-![css Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![html Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![node Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![react Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
