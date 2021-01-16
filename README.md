@@ -18,7 +18,6 @@ Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp Gos
 ![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
 ![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
-![Redux Badge](https://img.shields.io/badge/-Redux-purple)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=fabricioig863&show_icons=true&theme=radical" alt="fabricioig863" /> </p>
