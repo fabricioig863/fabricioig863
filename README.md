@@ -8,6 +8,8 @@
 
 Sou um Dev Full-Stack com Foco no desenvolvimento mobile e aluno do Bootcamp Gostack da Rocketseat, atualmente em busca de uma oportunidade para atuar como desenvolvedor FullStack<br /> 
 
+[Link do meu portfolio](https://portfolio-eight-inky.vercel.app/)
+
 ❤️ por desenvolvimento mobile 
 
 <br />
