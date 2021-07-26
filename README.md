@@ -12,8 +12,6 @@ Nos últimos meses venho realizando projetos com as seguintes tecnologias: HTML 
 
 ❤️ por desenvolvimento front-end e mobile.
 
-[Link do meu portfolio](https://portfolio-eight-inky.vercel.app/)
-
 <br />
  
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
