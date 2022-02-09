@@ -10,7 +10,7 @@ Tenho como objetivo me aprimorar constantemente na área de desenvolvimento de s
 
 Nos últimos meses venho realizando projetos com as seguintes tecnologias: HTML | CSS | Javascript | React | React-Native | NodeJS | Typescript.<br /> 
 
-❤️ por desenvolvimento front-end e mobile.
+❤️ por desenvolvimento mobile.
 
 <br />
  
